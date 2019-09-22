@@ -109,3 +109,9 @@ h2{
         font-size: 6rem;
     }
 }
+
+@media(max-width: 450px){
+    #time{
+        font-size: 3rem;
+    }
+}
