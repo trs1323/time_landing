@@ -1,0 +1,15 @@
+{
+  "name": "time_landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://trs1323.github.io/time_landing",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
